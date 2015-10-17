@@ -8,5 +8,3 @@ def rotate_word(_string, i):
         ret += char
     return ret
 
-print rotate_word("abc",1)
-
